@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+author: "Claudia Solís"
+date: '2022-07-19'
+output: html_document
+---
+
+
+
+Muestra de 1000 registros del dataset. 
+Se tomaron las columnas "rideable_type", "started_at", "ended_at" únicamente:
+
+
+[App Firebase](https://citybike-claudia-solis.web.app/)

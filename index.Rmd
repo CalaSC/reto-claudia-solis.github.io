@@ -1,9 +1,14 @@
 ---
-title: "My Website"
+title: "Reto citibike"
 ---
 
-Hello, Website!
+Objetivo:
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+Con el desarrollo del reto se integrarán todos los conocimientos adquiridos en éste y los módulos
+previos del diplomado, cumpliendo los siguientes objetivos:
+● Realizar un análisis de los datos para conocer su estructura y contenido, y así relacionarla
+con los requisitos del reto
+● Desarrollar funciones que nos permitan obtener datos de una manera eficiente
+● Crear, desplegar las aplicación web en la nube seleccionada y que nos permitan
+visualizar datos de acuerdo a los requerimientos.
