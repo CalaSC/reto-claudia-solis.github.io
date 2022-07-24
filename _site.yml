@@ -1,0 +1,9 @@
+name: "Reto citibike"
+output_dir: docs
+navbar:
+  title: "Reto citibike"
+  left:
+    - text: "Firebase"
+      href: firebase.html
+    - text: "Shiny"
+      href: shiny.html
