@@ -9,5 +9,5 @@ output: html_document
 - Se agrega un selector de fechas para especificar un rango.
 
 ### Ligas:
-- [Repositorio Github](https://github.com/CalaSC/shiny-citibike-heroku)
+- [Repositorio Github Shiny](https://github.com/CalaSC/shiny-citibike-heroku)
 - [Página Shiny](https://citibike-claudia-solis.herokuapp.com/)

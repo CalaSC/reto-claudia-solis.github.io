@@ -9,5 +9,5 @@ output: html_document
 - Se tomaron las columnas "rideable_type", "started_at", "ended_at" únicamente.
 
 ### Ligas:
-- [Repositorio Github](https://github.com/CalaSC/reto-claudia-solis.github.io)
+- [Repositorio Github Firebase](https://github.com/CalaSC/markdown-citibike-firebase)
 - [Página Firebase](https://citybike-claudia-solis.web.app/)
