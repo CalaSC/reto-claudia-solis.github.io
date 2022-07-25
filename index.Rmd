@@ -2,13 +2,14 @@
 title: "Reto citibike"
 ---
 
-Objetivo:
+### Objetivo:
 
 
 Con el desarrollo del reto se integrarán todos los conocimientos adquiridos en éste y los módulos
 previos del diplomado, cumpliendo los siguientes objetivos:
-● Realizar un análisis de los datos para conocer su estructura y contenido, y así relacionarla
-con los requisitos del reto
-● Desarrollar funciones que nos permitan obtener datos de una manera eficiente
-● Crear, desplegar las aplicación web en la nube seleccionada y que nos permitan
+
+- Realizar un análisis de los datos para conocer su estructura y contenido, y así relacionarla
+con los requisitos del reto.
+- Desarrollar funciones que nos permitan obtener datos de una manera eficiente
+- Crear, desplegar las aplicación web en la nube seleccionada y que nos permitan
 visualizar datos de acuerdo a los requerimientos.

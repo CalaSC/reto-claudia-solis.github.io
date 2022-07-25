@@ -1,6 +1,13 @@
 ---
-title: "Untitled"
-author: "Claudia Solís"
-date: '2022-07-19'
+title: "Shiny"
 output: html_document
 ---
+
+
+### Observaciones:
+- Se muestra una gráfica con la cantidad de usuarios por estación. 
+- Se agrega un selector de fechas para especificar un rango.
+
+### Ligas:
+- [Repositorio Github](https://github.com/CalaSC/shiny-citibike-heroku)
+- [Página Shiny](https://citibike-claudia-solis.herokuapp.com/)

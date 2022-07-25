@@ -1,14 +1,13 @@
 ---
-title: "Untitled"
-author: "Claudia Solís"
-date: '2022-07-19'
+title: "Firebase"
 output: html_document
 ---
 
 
+### Observaciones:
+- Muestra de 1000 registros del dataset. 
+- Se tomaron las columnas "rideable_type", "started_at", "ended_at" únicamente.
 
-Muestra de 1000 registros del dataset. 
-Se tomaron las columnas "rideable_type", "started_at", "ended_at" únicamente:
-
-
-[App Firebase](https://citybike-claudia-solis.web.app/)
+### Ligas:
+- [Repositorio Github](https://github.com/CalaSC/reto-claudia-solis.github.io)
+- [Página Firebase](https://citybike-claudia-solis.web.app/)
